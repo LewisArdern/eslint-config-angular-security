@@ -1,0 +1,22 @@
+{ 
+  "env" : {
+    "browser" : true,
+    "es6" : true /** all es6 features except modules */
+  },
+  "plugins" : [
+    "angularjs-security-rules"
+  ],
+  "rules" : {
+
+    /** angular rules **/
+    "angularjs-security-rules/detect-angular-trustAs-methods": 1,
+    "angularjs-security-rules/detect-angular-open-redirect": 1,
+    "angularjs-security-rules/detect-angular-element-methods": 1,
+    "angularjs-security-rules/detect-angular-orderBy-expressions": 1,
+    "angularjs-security-rules/detect-angular-resource-loading": 1,
+    "angularjs-security-rules/detect-angular-sce-disabled": 1,
+    "angularjs-security-rules/detect-angular-scope-expressions": 1,
+    "angularjs-security-rules/detect-angular-service-expressions": 1,
+    "angularjs-security-rules/detect-third-party-angular-translate": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-angular-security",
+  "version": "1.0.1",
+  "description": "Security rules config for AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LewisArdern/eslint-config-angular-security.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "security",
+    "eslint",
+    "javascript"
+  ],
+  "author": "Lewis Ardern",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LewisArdern/eslint-config-angular-security/issues"
+  },
+  "homepage": "https://github.com/LewisArdern/eslint-config-angular-security#readme",
+  "dependencies": {}
+}
