@@ -23,5 +23,8 @@
     "url": "https://github.com/LewisArdern/eslint-config-angular-security/issues"
   },
   "homepage": "https://github.com/LewisArdern/eslint-config-angular-security#readme",
-  "dependencies": {}
+  "dependencies": {
+    "eslint": "^4.16.0",
+    "eslint-plugin-angularjs-security-rules": "^1.0.3"
+  }
 }
