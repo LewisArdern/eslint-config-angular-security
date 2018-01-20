@@ -11,5 +11,5 @@ cp .eslintrc.json ~/.angular-eslintrc.json
 ## Running
 ```
 cd project-to-scan/
-eslint --no-eslintrc -c ~/.scanjs-eslintrc .
+eslint --no-eslintrc -c ~/.angular-eslintrc.json .
 ```
