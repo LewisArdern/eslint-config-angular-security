@@ -5,7 +5,7 @@ The rules can be reviewed [here](https://github.com/LewisArdern/eslint-plugin-an
 ## Install
 ```
 npm -g install
-cp .eslintrc.json ~/.angular-eslintrc.json
+* cp -v .eslintrc.json ~/.angular-eslintrc.json
 ```
 
 ## Running
