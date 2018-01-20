@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-angular-security",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Security rules config for AngularJS",
   "main": "index.js",
   "scripts": {

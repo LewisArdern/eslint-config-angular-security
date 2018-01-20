@@ -5,11 +5,11 @@ The rules can be reviewed [here](https://github.com/LewisArdern/eslint-plugin-an
 ## Install
 ```
 npm -g install
-* cp -v .eslintrc.json ~/.angular-eslintrc.json
+* cp -v .eslintrc ~/.angular-eslintrc
 ```
 
 ## Running
 ```
 cd project-to-scan/
-eslint --no-eslintrc -c ~/.angular-eslintrc.json .
+eslint --no-eslintrc -c ~/.angular-eslintrc .
 ```
